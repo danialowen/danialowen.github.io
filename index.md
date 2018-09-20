@@ -5,6 +5,9 @@ Click here to see the page of a [melt] (https://livjh.github.io/)
 
 ## About Me
 
+- I am originally from the town of Harlech, in Snowdonia National Park, North Wales.
+- I am a Physical Geography graduate, graduating at the University of Liverpool
+- I am currently an intergrated Masters/PhD student, studying Data Analytics and Society at the University of Liverpool with a sponsorship from IDOM 
 
 ## Welcome to GitHub Pages
 

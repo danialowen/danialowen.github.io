@@ -1,7 +1,7 @@
 # My Page
 
 My name is Danial Owen, a student at the University of Liverpool.
-Click here to see [my page] (https://danialowen.github.io/)
+Click here to see [my page](https://danialowen.github.io/)
 
 ## About Me
 

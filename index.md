@@ -1,4 +1,9 @@
 # My Page
+
+My name is Danial Owen, a student at the University of Liverpool.
+Click here for [my website](https://danialowen.github.io/)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/danialowen/danialowen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

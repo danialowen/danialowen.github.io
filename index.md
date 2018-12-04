@@ -1,6 +1,9 @@
 # My Page
 
-<img src="profile_1.jpg" alt="Profile" class="center">
+<p align="center">
+  <img width="40%" height="30%" src="profile_2.jpg">
+</p>
+
 
 
 My name is Danial Owen, a student at the University of Liverpool.

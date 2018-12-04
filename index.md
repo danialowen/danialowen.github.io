@@ -1,6 +1,7 @@
 # My Page
 
-![GitHub Profile](profile_1.jpg)
+<img src="profile_1.jpg" alt="Profile" class="center">
+
 
 My name is Danial Owen, a student at the University of Liverpool.
 Click here to see [my page](https://danialowen.github.io/)

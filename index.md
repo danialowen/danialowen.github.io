@@ -10,8 +10,7 @@ Hi, my name is Danial Owen; a PhD student at the University of Liverpool. I am a
 - University of Manchester 
 - University of Sheffield
 
-I am lucky to say I work with the Geographic Data Science Lab, at the University, and I am also a part of the Centre for Doctoral Training  
-
+I am lucky to work alongside many, very talented individuals at the Geographic Data Science Lab at the University of Liverpool. My research in particular, aims to explore new possibilities and enhance the understanding of new urban sensors and their use in Smart Cities. The research enatils the exploration of these new urban sensors on existing projects in Spain, and aims to expand any new learnings, worldwide. The research includes analysis and interpretation of Big Data, generously collected and provided by my sponsor company, IDOM.  
 
 Click here to see [my page](https://danialowen.github.io/)
 

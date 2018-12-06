@@ -14,7 +14,12 @@ The basic code elements of ABMs include the 'Model', 'Agent' and 'Environment'. 
 
 My project is an assignment for a Masters module and includes creating an ABM displaying Sheep (the Agents) eating away at the grass (the Environment). Here is the link to my [GitHub Repsitory](https://github.com/danialowen/Leeds_Assignment_1) which includes the final ABM labelled "Assignment_1.py" along with the functions for the Agent class labelled as "agentframework.py".
 
-Above, is a GIF which demonstrates the final outcome of my ABM model. This model displays 10 individual Sheep (agents) eating away at the environment until each Sheep is full and stops (has a food store of equal or above 5000). Thus, my ABM is condition-controlled and only stops when a certain condition is met. The function for stopping the ABM is found in the ["agentframework.py file"](https://github.com/danialowen/Leeds_Assignment_1). 
+Above, is a GIF which demonstrates the final outcome of my condition-controlled ABM model. This model displays 10 individual Sheep (agents) eating away at the environment until each Sheep is full. This model is controlled by functions in the ["agentframework.py file"](https://github.com/danialowen/Leeds_Assignment_1) and the agents are made to:
 
-The Sheep can also only move one square in either direction, and the direction the the sheep moves is controlled by the production of a random number. Each random number has a value ranging from 0 to 1 and the value determines where the sheep moves, for example, the function declares that a random number value greater than 0.5 moves the agent's x or y coordinates by +1, whereas, a random number value less than 0.5 moves each agent's x or y coordinates by -1.
+- Move each sheep in a direction determined by the value of the random number produced. For example, each random number has a value ranging from 0 to 1 and a random number value greater than 0.5 moves the agent's x or y coordinates by +1, whereas, a random number value less than 0.5 moves each agent's x or y coordinates by -1.
 
+- The sheep moves in a grid raster figure (100x100), thus, the move funciton had to include a "%100" remainder so that the sheep do not exceed the figure's boundaries.   
+
+- Eat the environment (if the food is there) and stop when each of the sheep are full (has a food store of equal or above 5000). 
+
+- Whilst eating the environment, the Sheep can interact with the other sheep. If two agents were positioned closer than the "neighbourhood" distance defined in the [final ABM](https://github.com/danialowen/Leeds_Assignment_1), then the two sheep would share their food equally.  

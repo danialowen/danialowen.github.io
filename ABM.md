@@ -14,3 +14,7 @@ The basic code elements of ABMs include the 'Model', 'Agent' and 'Environment'. 
 
 My project is an assignment for a Masters module and includes creating an ABM displaying Sheep (the Agents) eating away at the grass (the Environment). Here is the link to my [GitHub Repsitory](https://github.com/danialowen/Leeds_Assignment_1) which includes the final ABM labelled "Assignment_1.py" along with the functions for the Agent class labelled as "agentframework.py".
 
+Above, is a GIF which demonstrates the final outcome of my ABM model. This model displays 10 individual Sheep (agents) eating away at the environment until each Sheep is full and stops (has a food store of equal or above 5000). Thus, my ABM is condition-controlled and only stops when a certain condition is met. The function for stopping the ABM is found in the ["agentframework.py file"](https://github.com/danialowen/Leeds_Assignment_1). 
+
+The Sheep can also only move one square in either direction, and the direction the the sheep moves is controlled by the production of a random number. Each random number has a value ranging from 0 to 1 and the value determines where the sheep moves, for example, the function declares that a random number value greater than 0.5 moves the agent's x or y coordinates by +1, whereas, a random number value less than 0.5 moves each agent's x or y coordinates by -1.
+

@@ -1,3 +1,3 @@
 ## Agent Based Model
 
-[ABM GIF](abm.gif)
+![ABM GIF](abm.gif)

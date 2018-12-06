@@ -23,3 +23,6 @@ Above, is a GIF which demonstrates the final outcome of my condition-controlled 
 - Eat the environment (if the food is there) and stop when each of the sheep are full (has a food store of equal or above 5000). 
 
 - Whilst eating the environment, the Sheep can interact with the other sheep. If two agents were positioned closer than the "neighbourhood" distance defined in the [final ABM](https://github.com/danialowen/Leeds_Assignment_1), then the two sheep would share their food equally.  
+
+
+Whilst the functions for the Agents and the Environment are set, it is possible to modify some variables in the Model to examine the impact. For example, it is possible to modify the number of agents in the model, it is possible to modify the number of iterations per loop and possible to change the distance of the neighbourhood. It is interesting to see the impact of changing one or more of these variables and seeing what impact it has on the ABM. It is also possible to modify the condition on when the sheep are full, modifying this condition can determine how long the model will run for and how much the sheep will eat.

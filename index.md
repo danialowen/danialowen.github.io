@@ -8,5 +8,10 @@ Hi, my name is Danial Owen; a PhD student at the University of Liverpool. I am a
 
 I am lucky to work alongside many talented individuals at the University of Liverpool's Geographic Data Science Lab. My PhD research, aims to explore the new possibilities and enhance the understanding of new urban sensors in Smart Cities. My work will focus on the research of urban sensors on two existing projects in Spain (Costa Del Sol and Valencia) with the hope of being able to create a universal model, useable in not only Spain, but cities worldwide. The research includes analysis and interpretation of Big Data, generously collected and provided by my sponsor company, IDOM.  
 
+## My Work
 
+This website will provide the relevant links to some of my work completed during my academic research. Within each link there will be a brief description of the work and a link to the code (most likely on GitHub repositories). Feel free to contact me with any suggestions or questions regarding any of my projects by emailing me on: *d.w.owen@liverpool.ac.uk*
 
+### Agent Based Model 
+
+Here is the [link]

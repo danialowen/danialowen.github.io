@@ -10,7 +10,7 @@ I am lucky to work alongside many talented individuals at the University of Live
 
 ## My Work
 
-This website will provide the relevant links to some of my work completed during my academic research. Within each link there will be a brief description of the work and a link to the code (most likely on GitHub repositories). Feel free to contact me with any suggestions or questions regarding any of my projects by emailing me on: *d.w.owen@liverpool.ac.uk*
+This website will provide the links to some of my work completed during my academic research. Within each link there will be a brief description of the work and a link to the code (most likely on [GitHub Profile](https://github.com/danialowen)). Feel free to contact me with any suggestions or questions regarding any of my projects by emailing me on: *d.w.owen@liverpool.ac.uk*
 
 ### Agent Based Model 
 

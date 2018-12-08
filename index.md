@@ -11,8 +11,11 @@ I am lucky to work alongside many talented individuals at the University of Live
 ## Education
 
 - 2008 - 2013: 9 GCSEs at grade A or above (including English, Science, Mathematics) and one BTEC in Engineering at Ysgol Ardudwy
+
 - 2013 - 2015: 3 A-Levels (Mathematics, Business Studies, Geography); 1 AS-Level (Physics); 1 Advanced Diploma (Welsh Baccalaureate) at [Coleg Meirion Dwyfor, Pwllheli](https://www.gllm.ac.uk/)
+
 - 2015 - 2018: Physical Geography BSc at the [University of Liverpool](https://www.liverpool.ac.uk/)
+
 - 2018 - Present: PhD in Urban Sensors: Exploiting the opportunities  
 
 ## My Work

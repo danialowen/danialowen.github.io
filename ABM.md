@@ -18,7 +18,7 @@ Above, is a GIF which demonstrates the final outcome of my condition-controlled 
 
 - Move each sheep in a direction determined by the value of the random number produced. For example, each random number has a value ranging from 0 to 1 and a random number value greater than 0.5 moves the agent's x or y coordinates by +1, whereas, a random number value less than 0.5 moves each agent's x or y coordinates by -1.
 
-- The sheep moves in a grid raster figure (100x100), thus, the move funciton had to include a "%100" remainder so that the sheep do not exceed the figure's boundaries.   
+- The sheep moves in a grid raster figure (100x100), thus, the move function had to include a "%100" remainder so that the sheep do not exceed the figure's boundaries.   
 
 - Eat the environment (if the food is there) and stop when each of the sheep are full (has a food store of equal or above 5000). 
 

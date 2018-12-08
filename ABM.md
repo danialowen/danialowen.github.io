@@ -12,7 +12,7 @@ The basic code elements of ABMs include the 'Model', 'Agent' and 'Environment'. 
 
 ![ABM GIF](abm.gif)
 
-My project is an assignment for a Masters module and includes creating an ABM displaying Sheep (the Agents) eating away at the grass (the Environment). Here is the link to my [GitHub Repsitory](https://github.com/danialowen/Leeds_Assignment_1) which includes the final ABM labelled "Assignment_1.py" along with the functions for the Agent class labelled as "agentframework.py".
+My project is an assignment for a Masters module and includes creating an ABM displaying Sheep (the Agents) eating away at the grass (the Environment). Here is the link to my [GitHub Repository](https://github.com/danialowen/Leeds_Assignment_1) which includes the final ABM labelled "Assignment_1.py" along with the functions for the Agent class labelled as "agentframework.py".
 
 Above, is a GIF which demonstrates the final outcome of my condition-controlled ABM model. This model displays 10 individual Sheep (agents) eating away at the environment until each Sheep is full. This model is controlled by functions in the ["agentframework.py file"](https://github.com/danialowen/Leeds_Assignment_1) and the agents are made to:
 

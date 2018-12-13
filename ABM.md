@@ -15,7 +15,7 @@ My project is an assignment for a Masters module and includes creating an ABM di
 
 Above, is a GIF which demonstrates the final outcome of my condition-controlled ABM model. This model displays 10 individual Sheep (agents) eating away at the environment until each Sheep is full. This model is controlled by functions in the ["agentframework.py file"](https://github.com/danialowen/Leeds_Assignment_1) and the agents are made to:
 
-- Move each sheep in a direction determined by the value of the random number produced. For example, each random number has a value ranging from 0 to 1 and a random number value greater than 0.5 moves the agent's x or y coordinates by +1, whereas, a random number value less than 0.5 moves each agent's x or y coordinates by -1.
+- Move each sheep in a direction determined by the value of the random number produced. The Sheep have a 50% chance of moving in either direction.
 
 - The sheep moves in a raster grid 100x100, for which I have added a "%100" remainder after the move function so that the sheep do not exceed the figure's boundaries.   
 

@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi, my name is Danial Owen; a PhD student at the University of Liverpool. I am a Physical Geography graduate at the University of Liverpool, and originally from a relatively small, seaside town in North Wales, called Harlech. I am currently a student in the ESRC's Centre for Doctoral Training (CDT), completing a PhD in [Data Analytics and Society](https://datacdt.org/) in conjunction with three other universities; University of Leeds, University of Manchester and University of Sheffield.
+Hi, I am Danial Owen; a PhD student at the University of Liverpool. I am a Physical Geography graduate at the University of Liverpool, and originally from a relatively small, seaside town in North Wales, called Harlech. I am currently a student in the ESRC's Centre for Doctoral Training (CDT), completing a PhD in [Data Analytics and Society](https://datacdt.org/) in conjunction with three other universities; University of Leeds, University of Manchester and University of Sheffield.
 
 I am lucky to work alongside many talented individuals at the University of Liverpool's [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/about/). My PhD research, aims to explore the new possibilities and enhance the understanding of new urban sensors in Smart Cities. My work will focus on the research of urban sensors on two existing projects in Spain (Costa Del Sol and Valencia) with the hope of being able to create a universal model, useable in not only Spain, but cities worldwide. The research includes analysis and interpretation of Big Data, generously collected and provided by my sponsor company, [IDOM](https://www.idom.com/).  
 
